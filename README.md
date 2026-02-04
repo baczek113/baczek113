@@ -13,7 +13,7 @@ I like clean architecture, boring-but-reliable solutions, and code that’s easy
 - Distributed systems, APIs, and secure communication
 - Turning vague requirements into concrete, working features
 - Learning how things break — and how to prevent that next time
-- Collaborating with people who care about what they build
+- Collaborating with people who enjoy building things properly
 
 I’m currently expanding into **DevOps, cloud-native tooling, and embedded systems**, because apparently I enjoy making my life harder :P
 
@@ -63,6 +63,7 @@ Basically: a project where we tried to do things “the right way” — and lea
 
 - Co-organizer of **VIAHack** – a student hackathon at VIA University Collage in Horsens, Denmark
 - Occasionally explain technical things to non-technical humans
+- Actively exploring - planning visit at least 3 new countries this year 🇲🇹🇬🇧🇫🇷
 
 ---
 
