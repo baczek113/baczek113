@@ -80,4 +80,4 @@ Basically: a project where we tried to do things “the right way” — and lea
 - LinkedIn: https://www.linkedin.com/in/jakub-baczek-6204a2344  
 - Email: baczek.jakub@gmail.com
 
-If you’re building something interesting, breaking something important, or just want to talk software — feel free to reach out.
+If you’re building something interesting, breaking something important, or looking for a motivated junior developer or intern — feel free to reach out.
