@@ -69,8 +69,8 @@ Basically: a project where we tried to do things “the right way” — and lea
 ## 🌍 A bit about me
 
 - Based in Denmark 🇩🇰  
-- Polish (Polska Gurom)
-- Caffeine is a requirement
+- Polish (Polska Gurom) 🇵🇱
+- Caffeine is a requirement ☕
 - Occasionally play League of Legends, which has taught me patience, teamwork, and when to mute chat.
 
 ---
