@@ -1,9 +1,9 @@
 # Hey, I’m Jakub 👋
 
-I’m a **Software Technology Engineering student** at VIA University College and a developer who genuinely enjoys building things that *actually work*.  
-I’m mostly backend-oriented, but I’m perfectly happy jumping across the stack when the problem demands it.
+I’m a **Software Technology Engineering student** at VIA University College and genuinely enjoy building things that *actually work*.  
+I’m preffer doing backend, but I’m perfectly happy jumping across the stack when the problem demands it.
 
-I like clean architecture, boring-but-reliable solutions, and code that’s easy to reason about six months later.
+I like clean architecture and code that’s easy to reason about six months later.
 
 ---
 
@@ -82,4 +82,4 @@ Basically: a project where we tried to do things mostly “the right way” — 
 - Linkedin: https://www.linkedin.com/in/jakub-baczek-6204a2344  
 - Email: baczek.jakub@gmail.com
 
-If you’re building something interesting, breaking something important, or looking for a motivated junior developer or intern — feel free to reach out.
+If you’re building something interesting, breaking something important, or looking for a motivated intern — feel free to reach out.
