@@ -10,9 +10,9 @@ I like clean architecture, boring-but-reliable solutions, and code that’s easy
 ## 🧠 What I’m into
 
 - Backend development with **C# / .NET**
-- Distributed systems, APIs, and secure communication
-- Turning vague requirements into concrete, working features
-- Learning how things break — and how to prevent that next time
+- Distributed systems and APIs
+- Turning vague requirements into working features
+- Learning how things break - and how to prevent that next time
 - Collaborating with people who enjoy building things properly
 
 I’m currently expanding into **DevOps, cloud-native tooling, and embedded systems**, because apparently I enjoy making my life harder :P
@@ -39,7 +39,7 @@ I’m currently expanding into **DevOps, cloud-native tooling, and embedded syst
 **Tools & Platforms**
 - Git, GitHub, GitLab  
 - CI/CD pipelines, Docker, Kubernetes **(in progress)**  
-- RabbitMQ, Power BI
+- RabbitMQ
 
 ---
 
@@ -53,7 +53,7 @@ A multi-service system with a strict separation of concerns:
 - PostgreSQL persistence
 - Role-based access control and secure auth
 
-Basically: a project where we tried to do things “the right way” — and learned a lot in the process.
+Basically: a project where we tried to do things mostly “the right way” — and learned a lot in the process.
 
 👉 Repo: https://github.com/baczek113/sep3
 
@@ -62,8 +62,9 @@ Basically: a project where we tried to do things “the right way” — and lea
 ## 🧑‍🤝‍🧑 Other things I do
 
 - Co-organizer of **VIAHack** – a student hackathon at VIA University Collage in Horsens, Denmark
-- Occasionally explain technical things to non-technical humans
+- Gymin 🏋️
 - Actively exploring - planning visit at least 3 new countries this year 🇲🇹🇬🇧🇫🇷
+- Occasionally play League of Legends, which has taught me patience, teamwork, and when to mute chat
 
 ---
 
@@ -72,13 +73,13 @@ Basically: a project where we tried to do things “the right way” — and lea
 - Based in Denmark 🇩🇰  
 - Polish (Polska Gurom) 🇵🇱
 - Caffeine is a requirement ☕
-- Occasionally play League of Legends, which has taught me patience, teamwork, and when to mute chat.
+- Dress to impress
 
 ---
 
 ## 📫 Let’s connect
 
-- LinkedIn: https://www.linkedin.com/in/jakub-baczek-6204a2344  
+- Linkedin: https://www.linkedin.com/in/jakub-baczek-6204a2344  
 - Email: baczek.jakub@gmail.com
 
 If you’re building something interesting, breaking something important, or looking for a motivated junior developer or intern — feel free to reach out.
